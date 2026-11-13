@@ -17,5 +17,3 @@ Use in Hermes:
 ```text
 /telegram-bug-reporting
 ```
-
-MIT licensed. Not affiliated with Telegram or Nous Research.
